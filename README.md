@@ -29,6 +29,10 @@ It evaluates resumes based on structure, keywords, and content quality, providin
 - **Frontend:** HTML, CSS
 - **PDF Processing:** PyPDF2
 - **Logic:** Rule-based AI (heuristics + keyword matching)
+- flask
+pandas
+numpy
+scikit-learn
 
 ---
 
